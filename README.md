@@ -2,4 +2,4 @@
 
 Validates and Evaluates Apache Velocity Templates.
 
-![A screenshot of your package](https://github.com/carlogodoy/atom-velocity-validate/blob/master/assets/screen-cap.png)
+![A screenshot of your package](https://raw.githubusercontent.com/carlogodoy/atom-velocity-validate/master/assets/screen-cap.png)
