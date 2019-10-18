@@ -1,0 +1,16 @@
+
+Publishing package
+------------------
+
+https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/
+
+Inside git directory:
+
+apm publish minor
+
+apm publish major
+
+apm publish patch
+
+apm unpublish name-of-the-package.
+
