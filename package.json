@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-velocity-validate:toggle"
   },
-  "repository": "https://github.com/atom/atom-velocity-validate",
+  "repository": "https://github.com/carlogodoy/atom-velocity-validate",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
