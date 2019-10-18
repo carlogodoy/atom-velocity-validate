@@ -1,10 +1,9 @@
 {
   "name": "atom-velocity-validate",
   "main": "./lib/atom-velocity-validate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Validates and Evaluates Apache Velocity Templates",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-velocity-validate:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
