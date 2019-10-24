@@ -1,7 +1,7 @@
 {
   "name": "atom-velocity-validate",
   "main": "./lib/atom-velocity-validate",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Validates and Evaluates Apache Velocity Templates",
   "keywords": [],
   "activationCommands": {
